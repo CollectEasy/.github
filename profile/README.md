@@ -1,7 +1,7 @@
 <h1>CollectEasy<h1>
 <h6>Descrição do projeto:</h6>
 <p align="justify">
-O projeto "CollectEasy" é uma aplicação que visa facilitar a organização e gerenciamento de coleções, em que o usuário poderá adicionar informações relevantes sobre cada item de sua coleção, como fotos, estado de conservação e outras características importantes. Além disso, ela permitirá a criação de uma lista de compras, onde o usuário pode registrar os preços encontrados em diferentes lugares, tornando a escolha mais vantajosa na hora de adquirir novos itens. Com "CollectEasy", colecionar algo se tornará mais fácil e prático, permitindo que o usuário mantenha um controle preciso e atualizado sobre a sua coleção, economizando tempo e dinheiro nas compras futuras.
+O "CollectEasy" é uma aplicação que tem como objetivo facilitar a vida dos colecionadores, tornando a organização e gerenciamento de suas coleções muito mais práticos e eficientes. Com essa aplicação, o usuário pode adicionar informações importantes sobre cada item de sua coleção, como fotos e estado de conservação, além de criar uma lista de compras que permite registrar preços encontrados em diferentes lugares, tornando a escolha mais vantajosa na hora de adquirir novos itens. Com essa solução, colecionar algo se torna mais fácil e acessível, permitindo que o usuário mantenha um controle preciso e atualizado sobre sua coleção, economizando tempo e dinheiro em suas compras futuras.
 </p>
 
 <details>
