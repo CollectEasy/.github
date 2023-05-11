@@ -11,5 +11,6 @@ O "CollectEasy" é uma aplicação que tem como objetivo facilitar a vida dos co
  - Product Manager: [Bruna Santos](https://www.linkedin.com/in/bruna-santos-a811b413b) | [Marjorie Lebelein](https://www.linkedin.com/in/marjorie-lebelein/)
  - Agilista: [Thais Karollayne](https://www.linkedin.com/in/thais-karollayne-balbino-barros-18765226b) | [Marcelo Marangoni](https://www.linkedin.com/in/marcelofmarangoni)
  - UX: [Izabella Urias](https://www.linkedin.com/in/izabella-urias/) | [Nathalie M. Takamori](https://www.linkedin.com/in/nathalie-m-takamori-72459b19b/)
- - FrontEnd: [Victor Silva](https://www.linkedin.com/in/victorhrdsilva/) | [Fabio Rodrigues](https://www.linkedin.com/in/fabio-rodrigues-silva/)
+ - FrontEnd: [Victor Silva](https://www.linkedin.com/in/victorhrdsilva/)
+ - Backend: [Lucas Silva](https://www.linkedin.com/in/lucasdasilvadev/)
 
